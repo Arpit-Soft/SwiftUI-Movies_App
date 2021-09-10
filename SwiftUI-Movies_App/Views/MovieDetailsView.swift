@@ -39,6 +39,7 @@ struct MovieDetailsView: View {
         }
     }
     
+    
     var body: some View {
         
         Form {
